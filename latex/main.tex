@@ -1,0 +1,36 @@
+\documentclass[letterpaper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\geometry{left=3cm,right=2cm,top=2cm,bottom=2cm}
+\usepackage[english]{babel} % Change to English
+\usepackage[fixlanguage]{babelbib}
+\bibliographystyle{babunsrt}
+\usepackage{url}
+
+\usepackage{graphicx} % Required to include images
+\usepackage{float} % Required for the H placement specifier in the figure environment
+\usepackage{placeins} % Required for \FloatBarrier
+\usepackage{caption} % Required for customizing captions
+
+
+\title{\textbf{Webography}}
+\author{The definitive origin of all employed Figures.}
+
+\begin{document}
+    \maketitle
+    
+
+    \nocite{*}
+        \setcounter{page}{141}
+
+    \bibliography{src/references}
+
+\begin{figure}[hbt!]
+  \centering
+  \includegraphics[width=14cm]{1-year.png}
+  \caption*{\textbf{Figure 5.33} --- Farewell to the Old, Greetings to the New}
+  \label{fig:secure-data}
+\end{figure}
+\FloatBarrier
+
+\end{document}
