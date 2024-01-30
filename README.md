@@ -11,7 +11,9 @@ Additionally, we've incorporated a popup function to enhance the interactive exp
 
 > Feel free to truly explore and gain additional insights.
 
-
+|ℹ️|Do you wish to gain the complete detailed report and its invaluable wisdom that I've painstakingly gathered through my trials and tribulations?|
+|---|:---|
+|🗝️|Connect and [tell me that in LinkedIn](https://www.linkedin.com/in/yahya-abulhaj/) via a DM, pleasure to share it all to you personally.|
 
 
 
